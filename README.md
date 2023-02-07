@@ -12,7 +12,7 @@
 
 <div>
 <A href="https://www.linkedin.com/in/victoria-martins-alves-99064b1b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<A href="vma040713@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<A href=""mailto:vma040713@gmail.com?subject=Hello%20again"" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 </div>
