@@ -1,9 +1,10 @@
 ### Oiii!! Eu sou a Victoria Alves
   
-- 💻 Programadora iniciante
-- 📖 Estudando principios da programação
-- 🎓 Formada em técnico de Desenvolvimento de sistemas
-- ✨ Pronomes: ela/dela  
+- 💻 Beginner Programmer
+- 📖 I really like web design and front end
+- 🎓 Development and Systems Analysis Student
+- ✨ Brazilian
+
 
 <div> 
 <a href="https://github.bom/victoria-m-alves">
