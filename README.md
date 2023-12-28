@@ -1,4 +1,4 @@
-### Oiii!! Eu sou a Victoria Alves
+### Hi, i am Victoria Alves!
   
 - 💻 Beginner Programmer
 - 📖 I really like web design and front end
