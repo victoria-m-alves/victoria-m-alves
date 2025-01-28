@@ -1,9 +1,9 @@
-### Hi, i am Victoria Alves!
+### Olá, eu sou Victoria Alves!
   
-- 💻 Beginner Programmer
-- 📖 I really like web design and front end
-- 🎓 Development and Systems Analysis Student
-- ✨ Brazilian
+- 💻 Programadora
+- 📖 Programação Web
+- 🎓 Desenvolvimento de Sistemas
+- ✨ Aprendizado Contínuo
 
 
 <div> 
